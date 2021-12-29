@@ -100,7 +100,7 @@
 
         <div class="longBar row"></div>
 
-        <img class="picRecMenu" src="https://scontent.fbkk5-5.fna.fbcdn.net/v/t1.6435-9/68509400_1603082793156393_827718469423202304_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeG2iZ4u8tQCnQheP_piM_m4sBJIqWvEfxuwEkipa8R_GyAg6izXn3u0br-MM_mt5M_1GZ3IsbSGF4SYK6dargVZ&_nc_ohc=hYhXbNlkUWYAX8dtLGQ&_nc_ht=scontent.fbkk5-5.fna&oh=19089938c2c693a28fa13df94af41640&oe=619FDA36" 
+        <img class="picRecMenu" src="https://www.hachiban.co.th/_files/images/full/S37MKC6J.jpg" 
         alt="ภาพเมนูแนะนำ">
 
         <div class="allMenu row">
@@ -446,7 +446,7 @@ label {
     margin-top: -6px;
     margin-left: 4%;
     width: 20vw;
-    height: 5px;
+    height: 4px;
     border-radius: 2px;
     margin-bottom: 10px;
     background: #FFB800;

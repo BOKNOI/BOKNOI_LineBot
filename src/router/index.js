@@ -1,6 +1,5 @@
 import { createRouter, createWebHistory } from 'vue-router'
 import Home from '../views/Home.vue'
-import Login from '../views/Admin.vue'
 import Upload from '../views/UploadStore.vue'
 import Store from '../views/StoreInfo.vue'
 // import Home from '../views/StoreInfo.vue' // for test
@@ -18,11 +17,6 @@ const routes = [
   },
   {
     path: '/admin',
-    name: 'Login',
-    component: Login
-  },
-  {
-    path: '/admin/upload',
     name: 'Upload',
     component: Upload
     // add authenticaton
